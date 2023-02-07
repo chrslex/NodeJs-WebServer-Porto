@@ -1,0 +1,108 @@
+2023 February 08	0:24:04	a7459fdf-5a7c-419b-955e-ed9813c790fb	GET	undefined	/
+
+2023 February 08	0:24:04	03f99811-7b6d-4635-9081-509cc4427470	GET	undefined	/css/style.css
+
+2023 February 08	0:47:10	bf6a4d08-ba42-4e08-981d-32e87a0dce0a	GET	undefined	/
+
+2023 February 08	0:47:10	2fb5d3c8-aaac-4c7f-aa32-00d44db2d329	GET	undefined	/css/style.css
+
+2023 February 08	0:53:15	172daf17-b212-4919-afe5-c605e9c41d60	GET	undefined	/css/style.css
+
+2023 February 08	0:54:00	5f509c41-f788-4407-a9bb-0a733fdaa3fa	GET	undefined	/
+
+2023 February 08	0:54:56	67ba4cee-db7d-4566-904d-a855a2b8677f	OPTIONS	https://www.google.com	/
+
+2023 February 08	0:54:56	d443bc24-7309-41d1-86ae-93bfd69cdb9d	GET	https://www.google.com	/
+
+2023 February 08	1:00:37	0743b472-724e-4660-b020-9fa02aa16a69	GET	undefined	/
+
+2023 February 08	1:00:37	5ca65007-4d91-4756-95e4-8bac40723420	GET	undefined	/css/style.css
+
+2023 February 08	1:00:37	b0aad0d4-c245-483c-9e4f-3e5a05158e3c	GET	undefined	/
+
+2023 February 08	1:00:37	afde1022-9c23-41f4-b25d-e095fed71793	GET	undefined	/css/style.css
+
+2023 February 08	1:00:49	d5448538-9374-45b6-9b6a-1da88d693644	GET	undefined	/
+
+2023 February 08	1:01:02	26167e66-60d3-4b55-8406-fc638a4c5c99	GET	undefined	/css/style.css
+
+2023 February 08	1:01:52	0d1d96a1-1f06-4534-a2c5-66a5b0567363	GET	undefined	/css/style.css
+
+2023 February 08	1:01:52	e48556a0-72e2-46ac-9789-c24cc822673d	GET	undefined	/
+
+2023 February 08	1:01:52	b61fb981-7410-48b1-b9e7-791f9a938f29	GET	undefined	/css/style.css
+
+2023 February 08	1:01:54	86bc883a-acb4-4498-9326-44878da55ca8	GET	undefined	/
+
+2023 February 08	1:01:54	59e0be79-5004-40a7-947a-f77a50ab9deb	GET	undefined	/css/style.css
+
+2023 February 08	1:32:05	f24abe08-2f5b-4e00-8e2b-c9ee4d3fbed0	OPTIONS	https://www.google.com	/
+
+2023 February 08	1:32:05	63837f41-3f75-45f3-b985-1d60e799e901	GET	https://www.google.com	/
+
+2023 February 08	1:34:50	2e9f200c-1ef0-45c8-bf5b-08deb89649cf	GET	undefined	/
+
+2023 February 08	1:34:50	33936a93-a01e-41ac-90b3-ac70b077e3bc	GET	undefined	/css/style.css
+
+2023 February 08	1:34:56	18f1d6b8-b090-40ed-8199-799cd92c7341	GET	undefined	/
+
+2023 February 08	1:34:56	e8826135-405d-4046-aff5-b2e9dc4ab556	GET	undefined	/css/style.css
+
+2023 February 08	1:35:08	b7cfab24-617a-4e84-b09d-2b79b734cc92	OPTIONS	https://www.google.com	/
+
+2023 February 08	1:35:08	8545a04c-da9c-41af-8450-dab6fee6eb31	GET	https://www.google.com	/
+
+2023 February 08	1:35:42	533877ee-227c-4be9-8349-8913739a3e77	GET	undefined	/
+
+2023 February 08	1:35:42	c700e1ea-7c70-46f5-bf96-d289c2978839	GET	undefined	/css/style.css
+
+2023 February 08	1:35:54	3e1f41ac-ed5e-46e0-9561-2fd1123fccac	GET	undefined	/
+
+2023 February 08	1:35:54	0da4fea7-85da-4f9c-9438-0497818091eb	GET	undefined	/css/style.css
+
+2023 February 08	1:36:42	9672b8a3-4a3e-4e8a-b94f-eda6abe7024e	GET	undefined	/web-page
+
+2023 February 08	1:36:42	d552afb2-0cf8-4c1d-bacb-3b580c13c821	GET	undefined	/css/style.css
+
+2023 February 08	1:36:47	e26a9588-631b-47d0-abd5-bb9f1bc3fe8f	GET	undefined	/new-page
+
+2023 February 08	1:36:47	33231d2d-68e2-4930-afef-bc065da8edd8	GET	undefined	/css/style.css
+
+2023 February 08	1:36:47	94760e90-8fa4-4a7f-8d88-e98fb0a6e094	GET	undefined	/img/img1.jpg
+
+2023 February 08	1:36:51	650024e2-bf1a-4d21-82d7-8935bc7bf4dd	GET	undefined	/new-page.html
+
+2023 February 08	1:36:51	27136cfe-163f-455d-b8bd-b3693aa48e93	GET	undefined	/css/style.css
+
+2023 February 08	1:36:51	d196a3db-8da6-47b3-8e27-92b7b06e7fd8	GET	undefined	/img/img1.jpg
+
+2023 February 08	2:55:14	cdcefa07-2932-4c6d-8466-096c270785b4	OPTIONS	https://www.google.com	/
+
+2023 February 08	2:55:14	a77f1748-5597-4a87-b715-9d904b3e9f77	GET	https://www.google.com	/
+
+2023 February 08	2:55:18	dfb253b7-f9a3-48fc-b8dc-ad75ab9d5cd3	GET	https://www.google.com	/
+
+2023 February 08	2:55:44	7674c105-4995-4afb-9236-83a3d71d5d9f	OPTIONS	https://www.google.com	/
+
+2023 February 08	2:55:44	61e9e931-e52a-4fac-8951-4ef90a0d0ec6	GET	https://www.google.com	/
+
+2023 February 08	2:55:49	32acc229-9d25-4845-9e42-6fa389aba5b3	OPTIONS	https://www.google.com	/
+
+2023 February 08	2:55:49	0400e01e-d223-47eb-901e-0933721379b1	GET	https://www.google.com	/
+
+2023 February 08	2:59:33	46b0ecf8-3f93-4b17-9e17-45bed0cd77a5	GET	undefined	/
+
+2023 February 08	3:01:24	f46b1dfa-9f7c-4a71-9eba-592e440507ea	GET	undefined	/
+
+2023 February 08	3:01:24	3a3031cb-e422-4bd2-bd51-ac9aae67df63	GET	undefined	/css/style.css
+
+2023 February 08	3:06:22	857c881c-cdae-4809-9111-ac587308611d	GET	undefined	/
+
+2023 February 08	3:06:57	b64c9101-2fd7-41be-8558-2bd274b7cf97	GET	undefined	/
+
+2023 February 08	3:06:57	cf7e6374-786a-4403-8e39-c96cbfc4c50e	GET	undefined	/css/style.css
+
+2023 February 08	3:07:17	75e80904-0936-41e1-9f96-3ea7980ae8ee	GET	undefined	/
+
+2023 February 08	3:07:18	c4170dd0-6878-4f20-be2c-66e6c853d882	GET	undefined	/css/style.css
+
