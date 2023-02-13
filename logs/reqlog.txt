@@ -106,3 +106,71 @@
 
 2023 February 08	3:07:18	c4170dd0-6878-4f20-be2c-66e6c853d882	GET	undefined	/css/style.css
 
+2023 February 13	22:38:56	f0124d7d-47ff-4ab3-931d-ef1c24252429	GET	undefined	/
+
+2023 February 13	22:38:56	1baecca8-c206-443b-a807-73d5e1757723	GET	undefined	/css/style.css
+
+2023 February 13	22:38:56	ffd1853e-5c08-43d6-b3da-1f601ecb2058	GET	undefined	/favicon.ico
+
+2023 February 13	22:39:02	8b52251f-8bf1-4bc0-b7ee-d7038f9cb7da	GET	undefined	/subdir
+
+2023 February 13	22:39:26	71ea3c15-6c1b-4c2b-b977-7995e95daaee	GET	undefined	/subdir/ok
+
+2023 February 13	22:39:26	20704095-a35f-44d2-9a43-b1cbb51da8e6	GET	undefined	/css/style.css
+
+2023 February 13	22:40:24	5ead419f-3e28-4901-9bbd-4056c43d12e9	GET	undefined	/subdir
+
+2023 February 13	22:40:27	8753875c-c8de-4f24-b122-aaeb94efd880	GET	undefined	/subdir/ok
+
+2023 February 13	22:40:27	5569b476-5e38-4b1b-9bbc-738dc943bfdc	GET	undefined	/css/style.css
+
+2023 February 13	22:40:33	c6b22604-b86a-44af-9439-c0c371158aea	GET	undefined	/subdir/oklah
+
+2023 February 13	22:40:33	61966802-768c-416d-8503-d8724e30a5d0	GET	undefined	/css/style.css
+
+2023 February 13	22:41:17	6e90597d-10c6-46e1-86c3-44a35026c3f9	GET	undefined	/subdir/
+
+2023 February 13	22:52:01	e150b3c4-a34d-47c0-a653-a7f956736685	GET	undefined	/subdir/new-page
+
+2023 February 13	22:52:01	54eae803-803b-463b-96ed-57b26838a358	GET	undefined	/css/style.css
+
+2023 February 13	22:52:10	bdd4f477-ab9d-4c95-86ef-339136c9c68b	GET	undefined	/subdir/new-page.html
+
+2023 February 13	22:52:10	26c2a17e-8060-4f7e-b4dd-060200705797	GET	undefined	/css/style.css
+
+2023 February 13	22:52:15	2b80243d-78d8-483a-a06a-410115fcc654	GET	undefined	/new-page.html
+
+2023 February 13	22:52:47	15780cc4-7b6f-48a5-be69-b4a94b007ac5	GET	undefined	/new-page.html
+
+2023 February 13	22:52:47	82a2d59c-bfb1-4e78-ab18-203e0ec7a6da	GET	undefined	/css/style.css
+
+2023 February 13	22:52:47	945b125a-e709-4fa5-a1b5-c22b75605689	GET	undefined	/img/img1.jpg
+
+2023 February 13	22:53:14	fe7e84aa-d1ba-4106-bc12-d29953425ca1	GET	undefined	/
+
+2023 February 13	22:53:14	210f0101-37ef-4d91-a2b6-c42f96fb87f2	GET	undefined	/css/style.css
+
+2023 February 13	23:40:45	2bab6702-a424-4ab7-9c84-7c258ff05563	GET	undefined	/
+
+2023 February 13	23:41:14	9ac6be88-e019-4a17-8c9e-5c096c215c97	GET	undefined	/employees/
+
+2023 February 13	23:41:18	58c831c6-6cf5-4559-9af2-7260141ca259	GET	undefined	/employees
+
+2023 February 13	23:41:21	6b929d13-7acb-40a9-8c65-d6c47ba9866b	GET	undefined	/employees/1
+
+2023 February 13	23:41:25	cccfeea1-9f9f-4c2a-9a88-056af747fa44	GET	undefined	/employees/2
+
+2023 February 13	23:41:34	c62b384c-6aad-433d-b9d9-50a2dc0e5819	GET	undefined	/employees/3
+
+2023 February 13	23:41:40	cdb53a7e-0f6a-43cf-9553-5f984163ef2e	GET	undefined	/employees/id=1
+
+2023 February 13	23:41:47	15b33729-7efc-40c1-87b0-cb336bf69dc0	GET	undefined	/employees/id?=1
+
+2023 February 13	23:41:52	edaffcef-f7d0-4b07-ae34-ff9b2ab3c418	GET	undefined	/employees/
+
+2023 February 13	23:51:28	7fcb99fa-e7a8-483b-afeb-ba8f92d698c3	POST	undefined	/employees/
+
+2023 February 13	23:53:06	cfc63430-efe2-47e4-b9ec-020c9f0bb742	PUT	undefined	/employees/
+
+2023 February 13	23:53:45	673b2823-e0db-4e38-8b91-1837e02f54a9	DELETE	undefined	/employees/
+

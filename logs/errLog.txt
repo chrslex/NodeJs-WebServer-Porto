@@ -1,1 +1,2 @@
 2023 February 08	3:06:22	d915e13e-2705-4554-8630-398e75e38bba	Error: Not allowed by CORS
+2023 February 13	22:52:15	19e16ec1-c90c-4fd8-bf92-c0f6fa0708af	Error: ENOENT: no such file or directory, stat 'C:\Users\alexa\OneDrive\Code Related\NodeJs WebServer Porto\routes\views\new-page.html'
