@@ -1,2 +1,5 @@
 2023 February 08	3:06:22	d915e13e-2705-4554-8630-398e75e38bba	Error: Not allowed by CORS
 2023 February 13	22:52:15	19e16ec1-c90c-4fd8-bf92-c0f6fa0708af	Error: ENOENT: no such file or directory, stat 'C:\Users\alexa\OneDrive\Code Related\NodeJs WebServer Porto\routes\views\new-page.html'
+2023 February 18	6:04:48	fe16ed64-7670-46c1-820b-a9ea4e2fd091	TypeError: Cannot set properties of undefined (setting 'firstname')
+2023 February 18	6:10:03	767f5025-af08-43d5-84e9-8406e0b2fa6a	TypeError: Cannot read properties of undefined (reading 'sort')
+2023 February 18	6:11:10	995963c6-68dc-4d10-a234-e334c45bdbbc	TypeError: Cannot set properties of undefined (setting 'lastname')

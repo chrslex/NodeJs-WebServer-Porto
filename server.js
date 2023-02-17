@@ -2,6 +2,7 @@ const path = require('path');
 const express = require('express');
 const app = express();
 const cors = require('cors');
+const corsOptions = require('./config/corsOptions');
 const {logger} = require('./middleware/logEvents');
 const { errorHandler } = require('./middleware/errorHandler');
 
@@ -11,17 +12,6 @@ const PORT = process.env.PORT || 3500;
 app.use(logger);
 
 // 3rd-party cors middleware
-const whitelist = ['https://www.google.com','http://localhost:3500']
-const corsOptions = {
-    origin : (origin, callback) => {
-        if(whitelist.indexOf(origin) !== -1 || !origin) {
-            callback(null, true);
-        } else {
-            callback(new Error("Not allowed by CORS"));
-        }
-    },
-    optionSuccessStatus: 200
-}
 app.use(cors(corsOptions));
 // built-in url-encoded data middleware
 app.use(express.urlencoded({extended:false}));
@@ -31,11 +21,9 @@ app.use(express.json());
 
 // built-in static files middleware
 app.use(express.static(path.join(__dirname, "/public"))) 
-app.use('/subdir',express.static(path.join(__dirname, "/public"))) 
 
-// Routing for subdir
+// Routes
 app.use('/', require('./routes/root').router);
-app.use('/subdir', require('./routes/subdir').router);
 app.use('/employees', require('./routes/api/employees').router);
 
 
