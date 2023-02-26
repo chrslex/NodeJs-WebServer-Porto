@@ -3,3 +3,9 @@
 2023 February 18	6:04:48	fe16ed64-7670-46c1-820b-a9ea4e2fd091	TypeError: Cannot set properties of undefined (setting 'firstname')
 2023 February 18	6:10:03	767f5025-af08-43d5-84e9-8406e0b2fa6a	TypeError: Cannot read properties of undefined (reading 'sort')
 2023 February 18	6:11:10	995963c6-68dc-4d10-a234-e334c45bdbbc	TypeError: Cannot set properties of undefined (setting 'lastname')
+2023 February 25	23:11:53	972cba3b-b03f-41ec-92e0-eccc6b85f0f4	ReferenceError: whitelist is not defined
+2023 February 25	23:14:23	f20a8a10-e837-48aa-9951-4d4c233ffc12	ReferenceError: whitelist is not defined
+2023 February 25	23:14:24	9ff67c3b-eb3d-43c2-a590-fb3a355c4c6f	ReferenceError: whitelist is not defined
+2023 February 25	23:14:25	2172672b-8d2c-4798-b742-f46e73279e2d	ReferenceError: whitelist is not defined
+2023 February 25	23:14:42	f06d6df5-42f3-448a-b8b6-f164929b8154	ReferenceError: whitelist is not defined
+2023 February 25	23:15:43	a1044a4a-1e13-4efd-b528-d4361b38650a	ReferenceError: whitelist is not defined

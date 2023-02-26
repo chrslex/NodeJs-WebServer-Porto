@@ -534,3 +534,51 @@
 
 2023 February 18	20:49:56	8814ed3f-6b48-405a-a933-ddd02458467c	GET	undefined	/refresh
 
+2023 February 25	22:55:17	4fbbc63d-d3b3-4c87-b91f-c9a12b2eb7f6	GET	undefined	/
+
+2023 February 25	22:55:17	68b596b2-e219-4cea-80c9-c06516848162	GET	undefined	/css/style.css
+
+2023 February 25	22:55:17	722e696f-cf77-40b0-81ef-847c81bdfe1c	GET	undefined	/favicon.ico
+
+2023 February 25	22:56:51	3923a6c8-98f4-4ea9-9bb4-a8f9666566ac	POST	undefined	/auth
+
+2023 February 25	22:57:00	1123641f-3684-4e0b-8dc6-2dbf1ae2f8e8	GET	undefined	/employees/
+
+2023 February 25	22:58:22	7c930167-1f33-4b2a-a002-04aec5a435be	GET	undefined	/employees/
+
+2023 February 25	22:58:35	f7a1f508-79b5-4f0f-9609-69aaa8182715	GET	undefined	/refresh
+
+2023 February 25	22:58:38	ce5e931c-cc78-494d-ae4a-79433116c495	GET	undefined	/refresh
+
+2023 February 25	22:58:42	e383da0d-ade1-4eb1-ae76-4ca0e3552be6	GET	undefined	/refresh
+
+2023 February 25	23:11:53	a9028485-fee8-43f3-82b3-506ebe5cce3c	POST	undefined	/auth
+
+2023 February 25	23:14:23	c2c2e19f-eb79-4ccc-a432-6323bdb073a6	POST	undefined	/auth
+
+2023 February 25	23:14:24	9450d3f5-6b11-407d-827e-0ac2017bced5	POST	undefined	/auth
+
+2023 February 25	23:14:25	4e9f5fbd-7d4d-4592-af48-1c2311d06167	POST	undefined	/auth
+
+2023 February 25	23:14:42	164b11b5-8225-438b-912a-16f3f5c7f509	POST	undefined	/auth
+
+2023 February 25	23:15:43	10e7d6cc-5d84-4f2d-8030-9c1a73636403	POST	undefined	/auth
+
+2023 February 25	23:16:46	2766aa5c-f0ac-423a-955a-ee9dc3a97329	POST	undefined	/auth
+
+2023 February 25	23:16:55	10a341b4-8fb9-4950-9238-7f756feb5da9	POST	undefined	/logout
+
+2023 February 25	23:17:05	37375a3a-a46c-462c-8f97-7736df2efa99	GET	undefined	/refresh
+
+2023 February 25	23:17:13	be75c1cd-be2c-48d5-b4f7-5d82d96b89b4	POST	undefined	/auth
+
+2023 February 25	23:17:15	2da00154-762d-4697-a3b1-b4d00423c8a2	POST	undefined	/logout
+
+2023 February 25	23:17:43	28082cf7-031c-4801-b0bd-6c64686cf792	POST	undefined	/auth
+
+2023 February 25	23:17:45	4266fa31-189e-4702-8045-4f2b7cb58e10	POST	undefined	/logout
+
+2023 February 25	23:17:55	8fcac685-a15e-4a07-a574-9d972aba3c24	GET	undefined	/refresh
+
+2023 February 25	23:17:56	4432058c-d6c9-4bb9-836d-6aa039bd65c9	GET	undefined	/refresh
+
